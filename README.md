@@ -37,3 +37,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rish2408&show_icons=true&locale=en" alt="rish2408" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rish2408&" alt="rish2408" /></p>
+
+<!-----------------------Statistics Section---------------------------> 
+   <h2><i>Recent GitHub Activity</i></h2>
+  <br/>
+   <a href="https://github.com/rish2408"><img alt="Kapil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kapil7982&custom_title=rish2408's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+<!--------------------------------------Counters Section-------------------------------------------->
+
+<h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/rish2408/count.svg" />
+</h3>
