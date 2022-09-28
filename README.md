@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rishabhchandra2408@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AfqspiZaJ96tKR1OFw3Dks8ljgenR9ad/view?usp=sharing](https://drive.google.com/file/d/1AfqspiZaJ96tKR1OFw3Dks8ljgenR9ad/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OMVL_1kmw3PkLG35-vsTJErnQNSCj-4c/view?usp=sharing)
 
 - ⚡ Fun fact **My dream home would be in mountains.**
 
