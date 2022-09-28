@@ -9,7 +9,7 @@
 
 - 🔭 I’m recently worked on [First Post Clone Website](https://github.com/rish2408/FirstPost-Website-Navbar-Sidenbar-Footer-)
 
-- 🌱 I’m currently learning **React.js,Node.js and Java**
+- 🌱 I’m currently learning **Core Java,Spring Boot and Hibernate**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ES6**
 
