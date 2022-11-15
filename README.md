@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rishabhsri2408" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhsri2408?logo=twitter&style=for-the-badge" alt="rishabhsri2408" /></a> </p>
 
-- 🔭 I’m recently worked on [First Post Clone Website](https://github.com/rish2408/FirstPost-Website-Navbar-Sidenbar-Footer-)
+- 🔭 I’m recently worked on [Online Trip Management System](https://github.com/rajshekar11/dangerous-smash-6971)
 
 - 🌱 I’m currently learning **Core Java,Spring Boot and Hibernate**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rishabhchandra2408@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OMVL_1kmw3PkLG35-vsTJErnQNSCj-4c/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OMVL_1kmw3PkLG35-vsTJErnQNSCj-4c/view?usp=share_link)
 
 - ⚡ Fun fact **My dream home would be in mountains.**
 
