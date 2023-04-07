@@ -9,9 +9,9 @@
 
 - 🔭 I’m recently worked on [EXAMFACTOR](https://www.examfactor.in/)
 
-- 🌱 I’m currently learning **Core Java,Spring Boot and Hibernate**
+- 🌱 I’m currently working as a **SOFTWARE ENGINEER** in **ABP LEARNING TECHNOLOGIES PRIVATE LIMITED**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ES6**
+- 💬 Ask me about **CORE JAVA, SPRING BOOT, MICROSERVICES, MYSQL**
 
 - 📫 How to reach me **rishabhchandra2408@gmail.com**
 
