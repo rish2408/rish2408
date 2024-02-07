@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/rishabhsri2408" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhsri2408?logo=twitter&style=for-the-badge" alt="rishabhsri2408" /></a> </p>
 
-- 🔭 I’m recently worked on [ABP Education (Examfactor)](https://www.examfactor.com/)
+- 🏢 I’m recently worked on [ABP Education (Examfactor)](https://www.examfactor.com/)
 
-- 🌱 I’m currently working as a **SOFTWARE ENGINEER**
+- 💻 I’m currently working as a **SOFTWARE ENGINEER**
 
 - 💬 Ask me about **CORE JAVA, SPRING BOOT, Angular 17, MYSQL, Microservices, JIRA, and Keycloak**
 
-- 📫 How to reach me **rishabhchandra2408@gmail.com**
+- 📧 How to reach me **rishabhchandra2408@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OMVL_1kmw3PkLG35-vsTJErnQNSCj-4c/view?usp=share_link)
 
-- ⚡ One Dream **My dream home would be in mountains.**
+- 💭 One Dream **My dream home would be in mountains.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
