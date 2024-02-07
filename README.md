@@ -9,7 +9,7 @@
 
 - 🔭 I’m recently worked on [ABP Education (Examfactor)](https://www.examfactor.com/)
 
-- 🌱 I’m currently working as a **SOFTWARE ENGINEER** in **ABP LEARNING TECHNOLOGIES PRIVATE LIMITED**
+- 🌱 I’m currently working as a **SOFTWARE ENGINEER** in [ABP LEARNING TECHNOLOGIES PRIVATE LIMITED](https://www.thecompanycheck.com/company/abp-learning-technologies-private-limited/U80903WB2022PTC255266/)
 
 - 💬 Ask me about **CORE JAVA, SPRING BOOT, MICROSERVICES, MYSQL**
 
