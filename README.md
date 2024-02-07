@@ -36,7 +36,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rish2408&show_icons=true&locale=en" alt="rish2408" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=rish2408&" alt="rish2408" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rish2408&" alt="rish2408" /></p>
 
 <!-----------------------Statistics Section---------------------------> 
    <h2><i>Recent GitHub Activity</i></h2>
