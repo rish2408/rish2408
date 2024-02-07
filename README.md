@@ -9,9 +9,9 @@
 
 - 🔭 I’m recently worked on [ABP Education (Examfactor)](https://www.examfactor.com/)
 
-- 🌱 I’m currently working as a **SOFTWARE ENGINEER** in [ABP LEARNING TECHNOLOGIES PRIVATE LIMITED](https://www.thecompanycheck.com/company/abp-learning-technologies-private-limited/U80903WB2022PTC255266/)
+- 🌱 I’m currently working as a **SOFTWARE ENGINEER**
 
-- 💬 Ask me about **CORE JAVA, SPRING BOOT, MICROSERVICES, MYSQL**
+- 💬 Ask me about **CORE JAVA, SPRING BOOT, Angular 17, MYSQL, Microservices, JIRA, and Keycloak**
 
 - 📫 How to reach me **rishabhchandra2408@gmail.com**
 
