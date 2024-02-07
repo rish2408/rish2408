@@ -42,7 +42,7 @@
    <h2><i>Recent GitHub Activity</i></h2>
 <br/>
 <a href="https://github.com/rish2408">
-  <img alt="Rishabh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rish2408&custom_title=rish2408's%20Contribution%20Graph&theme=react-dark" />
+   [![Rishabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rish2408&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </a>
 <br/>
 
