@@ -38,14 +38,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rish2408&" alt="rish2408" /></p>
 
-<!-----------------------Statistics Section---------------------------> 
-   <h2><i>Recent GitHub Activity</i></h2>
-<br/>
-<a href="https://github.com/rish2408">
-   [![Rishabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rish2408&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</a>
-<br/>
-
 <!--------------------------------------Counters Section-------------------------------------------->
 
 <h3 align="center"> 
