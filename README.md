@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OMVL_1kmw3PkLG35-vsTJErnQNSCj-4c/view?usp=share_link)
 
-- ⚡ Fun fact **My dream home would be in mountains.**
+- ⚡ One Dream **My dream home would be in mountains.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
