@@ -40,9 +40,11 @@
 
 <!-----------------------Statistics Section---------------------------> 
    <h2><i>Recent GitHub Activity</i></h2>
-  <br/>
-   <a href="https://github.com/rish2408"><img alt="Rishabh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rish2408&custom_title=rish2408's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+<br/>
+<a href="https://github.com/rish2408">
+  <img alt="Rishabh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rish2408&custom_title=rish2408's%20Contribution%20Graph&theme=react-dark" />
+</a>
+<br/>
 
 <!--------------------------------------Counters Section-------------------------------------------->
 
