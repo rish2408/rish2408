@@ -72,7 +72,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rish2408&show_icons=true&locale=en" alt="rish2408" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rish2408)](https://git.io/streak-stats)
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rish2408" alt="rish2408" />
+</p>
 
 ---
 
