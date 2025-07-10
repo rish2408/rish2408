@@ -73,7 +73,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rish2408&" alt="rish2408" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rish2408)](https://git.io/streak-stats)
 </p>
 
 ---
@@ -84,11 +84,4 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=rish2408&theme=gruvbox" alt="rish2408" />
   </a>
-</p>
-
----
-
-<h3 align="center">Visitor Count</h3>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/rish2408/count.svg" />
 </p>
