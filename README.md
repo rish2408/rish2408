@@ -72,10 +72,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rish2408&show_icons=true&locale=en" alt="rish2408" />
 </p>
 
-<p>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rish2408" alt="GitHub Streak" /></a>
-</p>
-
 ---
 
 ### 🏆 GitHub Trophies
