@@ -14,7 +14,7 @@
 - 💬 Ask me about:  
   `Core Java`, `Spring Boot`, `Angular 17`, `MySQL`, `Microservices`, `JIRA`, `Keycloak`
 - 💻 I specialize in creating scalable APIs, seamless frontend integrations, and delivering clean, testable code  
-- 📧 Reach me at: **rishabh@gmail.com**  
+- 📧 Reach me at: **rishabhchandra2408@gmail.com**  
 - 📄 [Here’s My Resume](https://drive.google.com/file/d/1pCxAYlosKdcLQ0Tg-IgNru9Wszb6iKjp/view?usp=sharing)  
 - 🌄 Dream: *A cozy home nestled in the mountains*
 
